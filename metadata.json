@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeminiCalc AI",
+  "description": "1st Test",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
